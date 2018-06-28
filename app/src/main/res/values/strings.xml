@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string name="title">TextView</string>
+    <string name="genre">TextView</string>
+    <string name="year">TextView</string>
+    <string name="movie_image">Movie Image</string>
+</resources>
